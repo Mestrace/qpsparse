@@ -1,7 +1,13 @@
 # QPSParse
 
-A package to read linear optimization problems in quadratic optimization 
-problems in QPS format.
+A package to read linear optimization problems in quadratic optimization problems in MPS / QPS format.
+
+**Not Stable; Issues / PR are welcomed**
+
+## TODO
+
+-   RANGES is currently not supported. Will arouse error if range is specified.
+-   Names only supports alphanumeric
 
 
 ## References

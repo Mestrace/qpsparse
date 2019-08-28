@@ -1,0 +1,4 @@
+pandas>=0.25.0 # need pandas.DataFrame.sparse
+tatsu>=4.1.0
+scipy
+numpy
